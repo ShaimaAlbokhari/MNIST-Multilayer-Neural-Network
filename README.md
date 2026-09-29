@@ -28,7 +28,13 @@ A multilayer neural network built from scratch using NumPy to classify handwritt
 - Dataset files — MNIST training and test data
 - Results — Accuracy metrics and confusion matrix
 
+## Report
+
+[View the project report](report.pdf)
+
 ## Author
 
+**Shaima Nabeel Albokhari**  
+Computer Science Graduate | Data & AI
 **Shaima Nabeel Albokhari**  
 Computer Science Graduate | Data & AI
