@@ -135,7 +135,7 @@ def plot_accuracy_curves(size, train_acc, test_acc):
 #__________________________________________________________________
 # Exp 1: Vary number of hidden units. 
 results = {}
-epochs = 1
+epochs = 50
 hidden_sizes = [20, 50, 100] # List of hidden layer sizes to test
 
 print('=' * 40)
