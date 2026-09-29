@@ -1,8 +1,3 @@
-"""_____________________________________________________________
-     Homework 2: MLNN
-     by: Shaima Nabeel Albokhari     44100014
-_____________________________________________________________"""
-
 #import libraries
 import pandas as pd
 import numpy as np
